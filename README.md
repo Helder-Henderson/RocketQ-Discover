@@ -2,9 +2,9 @@
   Rockeat.Q
 </h1>
 
-<span> 
- https://github.com/Helder-Henderson/RocketQ-Discover/issues/1#issue-937997799
-  <span>
+<div style=width:50%>
+  <img src="https://user-images.githubusercontent.com/59569208/124627968-62bc6680-de56-11eb-8cd4-c9f9f4a50f38.gif">
+</div>
     
 
 ## 🚀 Tecnologias utilizadas
