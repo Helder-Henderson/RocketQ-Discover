@@ -1,12 +1,8 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="../github/rocketq.png" width="220px" />
+  Rockeat.Q
 </h1>
 
-<p align="center">
-  <img alt="Rocket.Q" src="" width="100%">
-</p>
-
-## 🚀 Tecnologias
+## 🚀 Tecnologias utilizadas
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,20 +12,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJS
 - EJS
 - Express
-- SQLite
+- SQLite 
 
-## 💻 Projeto
+## 💻 Sobre o Projeto
 
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
+Projeto para portfólio ! Aprimoramento de conhecimentos e treinamento.
 
-## 🔖 Layout
+### O que eu aprendi :question:
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- Primeiros passos com Express, desde a configuração até o uso
+- Primeiros passos com EJS, uma View Engine robusta para rodar HTML com scripts JavaScript embutido no back
+- Entendimento da estrutura Json
+- Controle de projeto via terminal 
 
-## :memo: Licença
+### Passos para visualizar o projeto : 
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+1 -  No diretório da pasta inicialize o terminal em seu editor e coloque -> npm init -y <br>
+2 -  Depois siga para a instalação do Express com -> npm install express <br>
+3 -  Continue com a instalação do EJS -> npm install ejs <br>
+4 -  O projeto está configurado para rodar com o nodemon, então caso não queira configurar o Json para iniciar com o Nodemom é necessário: <br>
+  4.1 - em package.json -> scripts -> start -> DE : "nodemom ." ---> PARA "node src/server.js"  <br>
+5 - Caso queira continuar sem mexer nos arquivos do projeto, no terminal instale o nodemom -> npm install nodemon -D <br>
+6 - Agora é só iniciar o seu navegador e digitar na url  > localhost:3000 <  a porta usada no projeto é a 3000 <br>
 
----
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Rocketseat 
