@@ -2,6 +2,11 @@
   Rockeat.Q
 </h1>
 
+<p>
+  ![Rocket_Q](https://user-images.githubusercontent.com/59569208/124622625-aa8cbf00-de51-11eb-887f-e15408075697.png)
+
+</p>
+
 ## 🚀 Tecnologias utilizadas
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
