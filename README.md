@@ -10,13 +10,14 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- SQLite 
+- NodeJS
+- EJS
 - HTML
 - CSS
 - JavaScript
-- NodeJS
-- EJS
 - Express
-- SQLite 
+
 
 ## 💻 Sobre o Projeto
 
@@ -45,14 +46,3 @@ Consegui absorver bastante do conhecimento do instrutor e sempre efetuando anota
 - Boas práticas em códigos.
 - Gerenciamento sadio de arquivos
 <br>
-
-### Passos para visualizar o projeto 👣 : 
-
-1 -  No diretório da pasta -> inicialize o terminal em seu editor e coloque -> npm init -y <br>
-2 -  Depois siga para a instalação do Express com -> npm install express <br>
-3 -  Continue com a instalação do EJS -> npm install ejs <br>
-4 -  O projeto está configurado para rodar com o nodemon, então caso não queira configurar o Json para iniciar com o Nodemom é necessário: <br>
-  4.1 - em package.json -> scripts -> start -> DE : "nodemom ." ---> PARA "node src/server.js"  <br>
-5 - Caso queira continuar sem mexer nos arquivos do projeto, no terminal instale o nodemom -> npm install nodemon -D <br>
-6 - Agora é só iniciar o seu navegador e digitar na url  > localhost:3000 <  a porta usada no projeto é a 3000 <br>
-
